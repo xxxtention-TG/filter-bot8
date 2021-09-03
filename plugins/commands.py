@@ -217,7 +217,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Group', url="https://t.me/movieshub43")
+                    InlineKeyboardButton('𝙂𝙧𝙤𝙪𝙥', url="https://t.me/movieshub43")
                 ]
             ]
         ),
@@ -243,12 +243,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🧑‍🎤 CREATOR", url="https://t.me/Lucifer8880"),
-                    InlineKeyboardButton("About Me", callback_data="about_data")
+                    InlineKeyboardButton("🧑‍🎤 𝙲𝚁𝙴𝙰𝚃𝙾𝚁", url="https://t.me/Lucifer8880"),
+                    InlineKeyboardButton("👸 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("Channel", url="https://t.me/movieshub39"),
-                    InlineKeyboardButton("Group", url="https://t.me/movieshub43")
+                    InlineKeyboardButton("𝘾𝙝𝙖𝙣𝙣𝙚𝙡", url="https://t.me/movieshub39"),
+                    InlineKeyboardButton("𝙂𝙧𝙤𝙪𝙥", url="https://t.me/movieshub43")
                 ]
             ]
         ),
