@@ -46,13 +46,13 @@ class Script(object):
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @MOVIESWORLD52</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : lina</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @Lucifer8880   
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
