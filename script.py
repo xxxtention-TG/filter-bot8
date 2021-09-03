@@ -2,7 +2,7 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-ഞാൻ മൂവീസ്മ വേൾഡ് പണി ചെയ്യുന്ന ഒരു ഫിൽറ്റർ bot ആണ് വെറുതെ നോക്കി നിന്ന്  സമയം കളയണ്ട എന്നെ അതിൽ യൂസ് ചെയ്യാൻ മാത്രമേ പറ്റൂ
+ഞാൻ മൂവീസ് ഹബ് പണി ചെയ്യുന്ന ഒരു ഫിൽറ്റർ bot ആണ് വെറുതെ നോക്കി നിന്ന്  സമയം കളയണ്ട എന്നെ അതിൽ യൂസ് ചെയ്യാൻ മാത്രമേ പറ്റൂ
 </b>
 """
 
@@ -46,11 +46,11 @@ class Script(object):
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @MOVIESWORLD52</b>
+<b>© @movieshub43</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : lina</b>
+    ABOUT_MSG = """⭕️<b>My Name : Emi</b>
 
 ⭕️<b>Creater :</b> @Lucifer8880   
 
