@@ -46,11 +46,11 @@ class Script(object):
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @movieshub43</b>
+<b>© @cineblasters</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Emi</b>
+    ABOUT_MSG = """⭕️<b>My Name : Ami</b>
 
 ⭕️<b>Creater :</b> @Lucifer8880   
 
